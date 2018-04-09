@@ -4,6 +4,7 @@ The EC2 instances in an Auto Scaling group have a path, or lifecycle, that diffe
 
 **Note**  
 You are billed for instances as soon as they are launched, including the time that they are not yet in service\.
+estslsls
 
 The following illustration shows the transitions between instance states in the Auto Scaling lifecycle\.
 
